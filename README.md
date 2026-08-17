@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
