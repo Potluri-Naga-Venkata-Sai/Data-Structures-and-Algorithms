@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0414-third-maximum-number) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Quicksort
 |  |
 | ------- |
