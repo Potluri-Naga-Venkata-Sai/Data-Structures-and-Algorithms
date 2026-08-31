@@ -236,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0493-reverse-pairs) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
