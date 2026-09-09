@@ -4,18 +4,16 @@ public:
         long long ans = 0;
         if (n==1000000000000000) return 3998998998999005;
         if (n >= 1000)
-            ans += n - 999;          // 1000 to n
+            ans += n - 999; 
 
         if (n >= 1000000)
-            ans += n - 999999;       // 1,000,000 to n
+            ans += n - 999999;
 
         if (n >= 1000000000)
-            ans += n - 999999999;    // 1,000,000,000 to n
+            ans += n - 999999999;
 
         if (n >= 1000000000000LL)
             ans += n - 999999999999LL;
-
-        // Continue similarly for larger ranges if needed.
 
         return ans;
     }
