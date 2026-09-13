@@ -26,8 +26,8 @@ public:
         }
         int ans = 0;
         map<pair<int, int>, int> mp;
-        for(auto it_1: indeces_1){
-            for(auto it_2: indeces_2){
+        for(auto& it_1: indeces_1){
+            for(auto& it_2: indeces_2){
                 int dr = it_2.first - it_1.first;
                 int dc = it_2.second - it_1.second;
 
