@@ -395,4 +395,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
