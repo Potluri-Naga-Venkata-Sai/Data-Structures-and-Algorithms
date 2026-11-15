@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0390-elimination-game](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0836-rectangle-overlap](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0678-valid-parenthesis-string](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0397-integer-replacement](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0397-integer-replacement) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1386-cinema-seat-allocation](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Potluri-Naga-Venkata-Sai/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
